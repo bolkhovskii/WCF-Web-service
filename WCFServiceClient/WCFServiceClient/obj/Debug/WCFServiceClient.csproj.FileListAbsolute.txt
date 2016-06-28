@@ -1,0 +1,9 @@
+C:\Users\COMFY\Desktop\QuantCat\Workspace\WCFServiceClient\WCFServiceClient\bin\Debug\WCFServiceClient.exe.config
+C:\Users\COMFY\Desktop\QuantCat\Workspace\WCFServiceClient\WCFServiceClient\bin\Debug\WCFServiceClient.exe
+C:\Users\COMFY\Desktop\QuantCat\Workspace\WCFServiceClient\WCFServiceClient\bin\Debug\WCFServiceClient.pdb
+C:\Users\COMFY\Desktop\QuantCat\Workspace\WCFServiceClient\WCFServiceClient\obj\Debug\WCFServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\COMFY\Desktop\QuantCat\Workspace\WCFServiceClient\WCFServiceClient\obj\Debug\WCFServiceClient.Form1.resources
+C:\Users\COMFY\Desktop\QuantCat\Workspace\WCFServiceClient\WCFServiceClient\obj\Debug\WCFServiceClient.Properties.Resources.resources
+C:\Users\COMFY\Desktop\QuantCat\Workspace\WCFServiceClient\WCFServiceClient\obj\Debug\WCFServiceClient.csproj.GenerateResource.Cache
+C:\Users\COMFY\Desktop\QuantCat\Workspace\WCFServiceClient\WCFServiceClient\obj\Debug\WCFServiceClient.exe
+C:\Users\COMFY\Desktop\QuantCat\Workspace\WCFServiceClient\WCFServiceClient\obj\Debug\WCFServiceClient.pdb

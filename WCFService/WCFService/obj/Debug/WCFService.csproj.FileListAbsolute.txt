@@ -1,0 +1,5 @@
+C:\Users\COMFY\Desktop\QuantCat\Workspace\WCFService\WCFService\bin\WCFService.dll
+C:\Users\COMFY\Desktop\QuantCat\Workspace\WCFService\WCFService\bin\WCFService.pdb
+C:\Users\COMFY\Desktop\QuantCat\Workspace\WCFService\WCFService\obj\Debug\WCFService.csprojResolveAssemblyReference.cache
+C:\Users\COMFY\Desktop\QuantCat\Workspace\WCFService\WCFService\obj\Debug\WCFService.dll
+C:\Users\COMFY\Desktop\QuantCat\Workspace\WCFService\WCFService\obj\Debug\WCFService.pdb
